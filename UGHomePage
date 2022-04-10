@@ -1,0 +1,69 @@
+<html>
+    <head>
+        <title> GREENEngage </title>
+        <link rel="stylesheet" type="text/css" href="CSS/UGStyle.css"/> 
+        <body style="background-color:#BCD9B2;">
+
+        <meta name charset="UTF-8">
+        <meta name = "keywords" content = "UG, Profile, GREENTrack, GREENSocial, GREENPoints">
+        <meta name = "description" content="UG's User App Home Page">
+        <meta name = "author" content="Cyber Booleans">
+        <meta name = "viewport" content="width=device-width, initial-scale=1.0">
+    
+    </head>
+    <body>
+        <center>
+            <p1> Welcome Back, John Doe! 
+            
+            <br> What would you like to do?
+            
+            </p1>
+    <hr>
+            <div class="split">
+            <a href="https://cyber-booleans.carrd.co/#greenprofile" target=_blank> 
+                <button class="btn"> Profile </button> 
+                
+            </a>
+    
+            <a href="https://cyber-booleans.carrd.co/#greentrack" target=_blank>
+                <button class = "btn1"> GREENTrack </button>
+            </a>
+
+    <hr>
+
+            <a href="https://cyber-booleans.carrd.co/#greensocial" target=_blank> 
+                <button class="btn"> GREENSocial </button> 
+                
+            </a>
+    
+            <a href="https://cyber-booleans.carrd.co/#greenevents" target=_blank>
+                <button class = "btn1"> Events </button>
+            </a>
+            <hr>
+    
+    <hr>
+
+            <a href="https://cyber-booleans.carrd.co/#greenpoints" target=_blank> 
+                <button class="btn"> GREENPoints </button> 
+                
+            </a>
+    
+            <a href="https://cyber-booleans.carrd.co/#greenprofile" target=_blank>
+                <button class = "btn1"> Settings </button>
+            </a>
+            <hr>
+    
+            <a href="https://cyber-booleans.carrd.co/#applogin" target=_blank> 
+                <button class="btn"> Homescreen </button> 
+                
+            </a>
+            </a>
+            <hr>
+    
+            <img src="images/Greendale.jpg" width="40%"/>
+    
+        </center>
+    
+    
+        </body>
+        </html>
