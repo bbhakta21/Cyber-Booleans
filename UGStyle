@@ -1,0 +1,31 @@
+.btn{
+
+color: #ffffff;
+font-family: Arial, Helvetica, sans-serif;
+background-color: #8AB389;
+border: none;
+border-radius: 2000px;
+padding: 10px;
+}
+
+.btn:hover{
+    background-color: #D7E8CA;
+    border: 3px solid white;
+
+}
+
+.btn1{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #8AB389;
+    border: none;
+    border-radius: 2000px;
+    padding: 10px;
+}
+    
+
+
+.btn1:hover{
+    background-color: #D7E8CA;
+    border: 3px solid white;
+}
